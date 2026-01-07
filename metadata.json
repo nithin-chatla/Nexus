@@ -1,0 +1,8 @@
+{
+  "name": "NexusTech - Engineering the Future",
+  "description": "A world-class software company landing page focusing on tech workshops, professional internships, and startup software development.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
